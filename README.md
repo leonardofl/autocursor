@@ -1,11 +1,11 @@
-# Autocursor
+# Auto Cursor
 
 Movimentação automática do cursor do mouse no Windows para auxiliar usuários com dificuldades motoras.
 
-##Download
+## Download
 
 https://github.com/leonardofl/autocursor/archive/master.zip
 
-##Tutorial
+## Tutorial
 
 https://youtu.be/dYhoVuq8oUs
